@@ -1,4 +1,21 @@
+=============================================
++BORNEO WEB BROWSER AND COMPONENTS LICENSE(S)
+=============================================
+------------------------------------------------
+
+Structure of code components are inspired in Haruna2 by foxhead128 <http://foxhead128.deviantart.com/art/Haruna2-245283932>
+License under the BSD 2-clause license, 2011
+
+QtWebKit is licensed under the LGPL.
+
+    -----------------------
+    Borneo - <Web browser>
+    -----------------------
+
+      *This project continues the XWebSurfer base, licensed under the BSD 2-clause license.
+
 GNU LESSER GENERAL PUBLIC LICENSE
+
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
@@ -163,3 +180,39 @@ whether future versions of the GNU Lesser General Public License shall
 apply, that proxy's public statement of acceptance of any version is
 permanent authorization for you to choose that version for the
 Library.
+
+    ----------------------------------
+    DO.START v2.5 - <Quick start page>
+    ----------------------------------
+
+      *Modified and adapted by Malcer
+
+Copyright (c) 2010 Matthew Gadd <http://darkotter360.deviantart.com/>
+ 
+
+ Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated documentation
+ files (the "Software"), to deal in the Software without
+ restriction, including without limitation the rights to use,
+ copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the
+ Software is furnished to do so, subject to the following
+ conditions:
+
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+ OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+ OTHER DEALINGS IN THE SOFTWARE.
+ 
+    --------
+    ARTWORK
+    --------
+
+Artwork created by Malcer under Creative Commons BY-SA license.

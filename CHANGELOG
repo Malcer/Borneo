@@ -1,0 +1,63 @@
+==========
++CHANGELOG
+==========
+
+Pre-Alpha / 5 Nov 2013
+----------------------
+
+-Base and tests ended
+-Moved to LGPL license
+-WebSettings improvements
+-Configuration improvements
+-Redesigned UI
+-Icons addapted to the system
+-Plugins and JavaScript integrated by default
+-More complete Do.Start services
+-More comfortable binary
+-More Spanish traslations
+-Included QWebDataBase (for better HTML5 work) in mainwindow.h code for future features
+
+---------------------------
+
+BASE *_v0.3.3 / 15 Jan 2012
+---------------------------
+
+-Code improvements
+-General menu button
+-Full screen / normal screen button
+-Enable plugins option
+-Enable JavaScript option
+-Translations enabled
+-Spanish translation
+-Plugins and JavaScript disabled by default
+-Private browsing and others are avaiable in the code
+
+BASE *_v0.3.2 / 13 Jan 2012
+---------------------------
+
+-Fullscreen support (shortcut F11)
+-New "About" dialog
+-QPushButtons morph into QToolButtons
+-Code improvements
+
+BASE *_v0.3.1 / 11 Jan 2012
+---------------------------
+
+-Fixed some bugs in program and documentation
+
+
+BASE *_v0.3 10 / Jan 2012
+-------------------------
+
+-Continues XWebSurfer base (released in 13 Nov 2011)
+-Code improvements
+-Own artwork/icons
+-Testing spanish translation
+-Added a "Home" button
+-Added DO.START (as quickstart page), adaptation from Matthew Gadd's work with same name. Link to some popular webs and good quality services
+-Added "new window" button
+-Better end user experience
+-Included original final advice of BSD-2 clause license
+-Enabled Flash and JavaScript plugins
+-"About" dialog and button
+

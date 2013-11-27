@@ -1,0 +1,123 @@
+body {
+	margin: 0px;
+
+	font-size: 100%;
+	font-family: sans-serif;
+
+	color: rgba(0%, 0%, 0%, 0.7);
+	background: rgb(249, 249, 249);
+}
+
+/* Container divs */
+#main {
+	position: relative;
+	width: 100%;
+	min-width: 500px;
+
+	margin: 0px;
+	padding: 0px;
+}
+
+#foot {
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+	width: 100%;
+
+	margin: 0px;
+	padding: 0px;
+
+	text-align: center;
+
+	background: rgba(0, 0, 0, 0.1);
+}
+
+#main > div, #foot > div { position: relative; padding: 5px; }
+
+#main > div { width: 60%; min-width: 450px; margin: auto; }
+
+#foot > div { position: relative; center: 0px; height: 2em; }
+
+.spacer {
+	display: block; clear: both;
+	color: transparent; background: transparent;
+	margin: 0px; padding: 0px;
+}
+
+#main > div > .spacer { height: 4em }
+
+/* Main area styling */
+
+#main h1 {
+	margin: 0.8em auto 0.1em;
+
+	font-size: 1.2em;
+	font-weight: normal;
+
+	text-transform: uppercase;
+}
+
+#main a {
+	display: inline-block;
+
+	margin: 0.1em;
+	padding: 0.5em;
+
+	text-decoration: none;
+	vertical-align: middle;
+
+	color: inherit;
+	background: rgba(0, 0, 0, 0.1);
+
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+#main a:hover {
+	background: rgba(0, 0, 0, 0.15);
+}
+
+#main a > img {
+	width: 16px;
+	height: 16px;
+
+	vertical-align: middle;
+
+	margin: 0.1em 0.2em;
+	padding: 0px;
+
+	border: none;
+}
+
+/* Search form styling */
+#foot form {
+	display: inline-block;
+	position: relative;
+
+	background: rgba(100%, 100%, 100%, 0.9);
+
+	border: none;
+
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+#foot form input {
+	display: inline;
+	position: relative;
+
+	padding: 0.5em;
+
+	font-size: 0.8em;
+
+	color: inherit;
+	background: transparent;
+
+	border: none;
+}
+
+#foot form #g_btn:hover {
+	color: black;
+}
