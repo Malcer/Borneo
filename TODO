@@ -4,6 +4,7 @@ BORNEO NEEDS (AS MINIMUM):
 -Basic right-click mouse events.
 -Have tabs to surf the web.
 -.dekstop and other files for an installation in a Linux/BSD system (or *NIX in general).
+-A system to control cookies and other basic web options.
 -Print option.
 -The "stop charge" button must be hide if the page is loaded.
 -A little drop window in  top left corner to see the URL when mouse is over a link.
@@ -11,4 +12,5 @@ BORNEO NEEDS (AS MINIMUM):
 -History and bookmarks.
 -A download manager.
 -An adblock system.
--Good HTML5 and WebGL if is possible compatibility.
+-A "do not track" option.
+-Good HTML5 and WebGL compatibility.
