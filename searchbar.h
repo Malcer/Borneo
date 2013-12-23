@@ -1,6 +1,6 @@
 //-------------------------------------------------
 //
-//   Copyright (c) 2013, Malcer Quaid <malcer@gmx.com>
+//   Copyright (c) 2013, Malcer <malcer@gmx.com>
 //
 //   This software is distributed as free and open source software, licensed under the LGPL license.
 //
